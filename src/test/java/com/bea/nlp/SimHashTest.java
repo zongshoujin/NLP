@@ -7,13 +7,15 @@ package com.bea.nlp;
 
 import java.math.BigInteger;
 
-/**
- * Description Of The Class<br/>
- * QQ:1211956756
- * 
- * @author 	zsj07814(宗寿金)
- * @version 1.0.0, 2017年8月2日-下午2:16:23
- * @since 2017年8月2日-下午2:16:23
+/** 
+ * ClassName:EditDistance <br/> 
+ * Function: TODO ADD FUNCTION. <br/> 
+ * Reason:   TODO ADD REASON. <br/> 
+ * Date:     2017年7月22日 下午11:07:16 <br/> 
+ * @author   zsj
+ * @version   
+ * @since    JDK 1.7 
+ * @see       
  */
 public class SimHashTest {
 
