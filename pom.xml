@@ -41,6 +41,20 @@
         <artifactId>google-collections</artifactId>
         <version>1.0</version>
     </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language -->
+	<dependency>
+	    <groupId>com.google.cloud</groupId>
+	    <artifactId>google-cloud-language</artifactId>
+	    <version>0.20.0-beta</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language -->
+	<!-- <dependency>
+	    <groupId>com.google.cloud</groupId>
+	    <artifactId>google-cloud-language</artifactId>
+	    <version>0.8.0</version>
+	</dependency> -->
 	
+
   </dependencies>
 </project>
